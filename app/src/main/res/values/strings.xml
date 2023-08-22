@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Api App</string>
+    <string name="fetch_new_quote">Fetch new quote</string>
+</resources>
